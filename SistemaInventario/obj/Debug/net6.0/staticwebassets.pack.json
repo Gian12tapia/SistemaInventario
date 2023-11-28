@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\Categoria.js"
     },
     {
+      "Id": "C:\\PROYECTODAS\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Marca.js",
+      "PackagePath": "staticwebassets\\js\\Marca.js"
+    },
+    {
       "Id": "C:\\PROYECTODAS\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
